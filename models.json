@@ -1,0 +1,44 @@
+```json
+{
+  "version": "1.0.0",
+  "release": "originalworkingmodelssingles",
+  "models": [
+    {
+      "id": "efficientNet",
+      "name": "EfficientNet-B0.tflite",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/originalworkingmodelssingles/EfficientNet-B0.tflite",
+      "sha256": "40ba30f584ae18b570ce6873e300e782b177506b5b075d691bdac901d4532008"
+    },
+    {
+      "id": "ocrDetection",
+      "name": "modeldet.onnx",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/originalworkingmodelssingles/modeldet.onnx",
+      "sha256": "69d10a2f151e0561e7e6c948ff0207a5fb84789fa6a4591d1d08138e3d82f1f9"
+    },
+    {
+      "id": "ocrRecognition",
+      "name": "modelrec.onnx",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/originalworkingmodelssingles/modelrec.onnx",
+      "sha256": "18fae12e175a4e8616b57fb001ed51270eb81ce126c652d0f88e297a8de53f49"
+    },
+    {
+      "id": "ocrDetectionParams",
+      "name": "inference.pdiparams",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/originalworkingmodelssingles/inference.pdiparams",
+      "sha256": "7e9518c6ab706fe87842a8de1c098f990e67f9212b67c9ef8bc4bca6dc17b91a"
+    },
+    {
+      "id": "ocrRecognitionParams",
+      "name": "inferencerec.pdiparams",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/originalworkingmodelssingles/inferencerec.pdiparams",
+      "sha256": "e998aaaf45ee578659e47f7f20edc64929d62a98d392beb9a1253514c3e354f4"
+    },
+    {
+      "id": "dictionary",
+      "name": "en_dict.txt",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/originalworkingmodelssingles/en_dict.txt",
+      "sha256": "f27a6aa993c9cb67a588e7ea9aea90bb96b8e51dec6ce98bd7e76c104c1829fe"
+    }
+  ]
+}
+```
