@@ -1,0 +1,18 @@
+{
+  "models": {
+    "detection": {
+      "name": "PP-OCRv6 Small Detection",
+      "file": "smalldetv6inference.onnx",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/v6smallocrmodels/smalldetv6inference.onnx",
+      "sha256": "d73e0058b7a8086bbd57f3d10b8bcd4ff95363f67e06e2762b5e814fe9c9410e",
+      "size_mb": 9.42
+    },
+    "recognition": {
+      "name": "PP-OCRv6 Small Recognition",
+      "file": "smallrecv6infer.onnx",
+      "url": "https://github.com/realkevo/eyerelease/releases/download/v6smallocrmodels/smallrecv6infer.onnx",
+      "sha256": "5435fd747c9e0efe15a96d0b378d5bd157e9492ed8fd80edf08f30d02fa24634",
+      "size_mb": 20.2
+    }
+  }
+}
