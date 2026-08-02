@@ -1,0 +1,5 @@
+{
+  "name": "EfficientNet-B0.tflite",
+  "url": "https://github.com/realkevo/eyerelease/releases/download/originalworkingmodelssingles/EfficientNet-B0.tflite",
+  "sha256": "40ba30f584ae18b570ce6873e300e782b177506b5b075d691bdac901d4532008"
+}
