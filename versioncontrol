@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.5",
-  "latestBuild": 20,
+  "latestVersion": "1.0.6",
+  "latestBuild": 22,
   "updateTitle": "Update Available",
   "updateMessage": "A new version of Eye is available.",
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.toptech.eye"
