@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "mobileclip": {
+    "text_model": "https://huggingface.co/Kelvinthuranira/mobilso/resolve/main/mobileclip_s0_text_encoder_tflite_float16.tflite",
+    "image_model": ""
+  }
+}
