@@ -1,0 +1,17 @@
+{
+  "streams": [
+    {
+      "category": "Sports",
+      "streaming_link": "https://soccerstreams.cx/"
+    },
+    {
+      "category": "News",
+      "streaming_link": "https://example.com/stream2.m3u8"
+    },
+    {
+      "category": "Entertainment",
+      "streaming_link": "https://example.com/stream3.m3u8"
+    }
+  ],
+  "version": 1
+}
