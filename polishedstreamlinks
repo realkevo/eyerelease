@@ -1,0 +1,45 @@
+{
+"version": 2,
+"streams": [
+{
+"category": "Sports",
+"sources": [
+{
+"link_name": "Primary Sports Mirror",
+"streaming_link": "https://soccerstreams.cx/",
+"enabled": true
+},
+{
+"link_name": "Backup HD Server",
+"streaming_link": "https://sportshub.stream/",
+"enabled": true
+},
+{
+"link_name": "Legacy Stream (Maintenance)",
+"streaming_link": "https://vipleague.st/",
+"enabled": false
+}
+]
+},
+{
+"category": "Movies & Series",
+"sources": [
+{
+"link_name": "Main Cinema Hub",
+"streaming_link": "https://www1.123series.art/home",
+"enabled": true
+},
+{
+"link_name": "Flixtor Backup Link",
+"streaming_link": "https://flixtor.to/",
+"enabled": true
+},
+{
+"link_name": "Deprecated Link",
+"streaming_link": "https://oldmovies.xyz/",
+"enabled": false
+}
+]
+}
+]
+}
