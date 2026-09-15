@@ -12,7 +12,7 @@
 {
 "link_name": "Link source 2",
 "streaming_link": "https://soccerstreams.cx/",
-"enabled": false
+"enabled": true
 },
 {
 "link_name": "Legacy Stream (Maintenance)",
