@@ -3,5 +3,7 @@
   "message": "We have added 5 new ultra-high definition premium fallback streams for the football section. Check them out now!",
   "button_text": "VISIT PORTAL",
   "action_url": "https://example.com/sports-news",
-  "enabled": true
+  "enabled": true,
+  "version": "1.0.8",
+  "forcepush": true
 }
