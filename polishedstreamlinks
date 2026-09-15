@@ -6,17 +6,17 @@
 "sources": [
 {
 "link_name": "Link source 1",
-"streaming_link": "https://soccerstreams.cx/",
+"streaming_link": "https://streamed.pk/",
 "enabled": true
 },
 {
 "link_name": "Link source 2",
-"streaming_link": "https://sportshub.stream/",
+"streaming_link": "https://soccerstreams.cx/",
 "enabled": false
 },
 {
 "link_name": "Legacy Stream (Maintenance)",
-"streaming_link": "https://vipleague.st/",
+"streaming_link": "https://soccerstreams.cx/",
 "enabled": false
 }
 ]
