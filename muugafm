@@ -4,6 +4,7 @@
   "button_text": "VISIT PORTAL",
   "action_url": "https://example.com/sports-news",
   "enabled": true,
-  "version": "1.0.8",
-  "forcepush": true
+  "version": "1.6.3",
+  "forcepush": false,
+  "showlink": false
 }
