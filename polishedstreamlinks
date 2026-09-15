@@ -10,11 +10,6 @@
 "enabled": true
 },
 {
-"link_name": "Link source 2",
-"streaming_link": "https://soccerstreams.cx/",
-"enabled": false
-},
-{
 "link_name": "Recommended ",
 "streaming_link": "https://roxiestreams.su/",
 "enabled": true
