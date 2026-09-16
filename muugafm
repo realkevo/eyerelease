@@ -1,12 +1,6 @@
 {
   "title": "Major Sports Broadcast Update!",
-  "message": "⚠️ Streaming Notice
-
-Streaming domains can sometimes be blocked, seized, or taken offline without warning. Stream works hard to provide reliable and stable free streaming sites, but availability can change.
-
-If a link isn't working, check the other available links to find a working source.
-
-📲 Click the link below to download the latest Stream version and enjoy the new features.",
+  "message": "⚠️ Streaming Notice\n\nStreaming domains can sometimes be blocked, seized, or taken offline without warning. Stream works hard to provide reliable and stable free streaming sites, but availability can change.\n\nIf a link isn't working, check the other available links to find a working source.\n\n📲 Click the link below to download the latest Stream version and enjoy the new features.",
   "button_text": "Get latest version",
   "action_url": "https://realkevo.github.io/stream/#download",
   "enabled": true,
