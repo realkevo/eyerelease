@@ -1,8 +1,14 @@
 {
   "title": "Major Sports Broadcast Update!",
-  "message": "We have added 5 new ultra-high definition premium fallback streams for the football section. Check them out now!",
-  "button_text": "VISIT PORTAL",
-  "action_url": "https://example.com/sports-news",
+  "message": "⚠️ Streaming Notice
+
+Streaming domains can sometimes be blocked, seized, or taken offline without warning. Stream works hard to provide reliable and stable free streaming sites, but availability can change.
+
+If a link isn't working, check the other available links to find a working source.
+
+📲 Click the link below to download the latest Stream version and enjoy the new features.",
+  "button_text": "Get latest version",
+  "action_url": "https://realkevo.github.io/stream/#download",
   "enabled": true,
   "version": "1.6.4",
   "showlink": true
