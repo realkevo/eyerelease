@@ -10,6 +10,6 @@ If a link isn't working, check the other available links to find a working sourc
   "button_text": "Get latest version",
   "action_url": "https://realkevo.github.io/stream/#download",
   "enabled": true,
-  "version": "1.6.4",
+  "version": "1.6.5",
   "showlink": true
 }
