@@ -5,12 +5,17 @@
 "category": "Sports",
 "sources": [
 {
-"link_name": "Recommended",
+"link_name": "Link Name: soccerstream",
 "streaming_link": "https://soccerstreams.cx/",
 "enabled": true
 },
 {
-"link_name": "sportslink2 ",
+"link_name": "Link Name: tazz",
+"streaming_link": "https://tazz-tv.net/",
+"enabled": true
+},
+{
+"link_name": "Link name: roxie",
 "streaming_link": "https://roxiestreams.su/",
 "enabled": true
 }
@@ -20,17 +25,22 @@
 "category": "Movies & Series",
 "sources": [
 {
-"link_name": "Link source 1",
+"link_name": "Link Name: Goblin",
 "streaming_link": "https://streamgoblin.cc/",
 "enabled": true
 },
 {
-"link_name": "Link source 2",
+"link_name": "Link Name: 123",
 "streaming_link": "https://www1.123series.art/home",
 "enabled": true
 },
 {
-"link_name": "Deprecated Link",
+"link_name": "Link Name: uflix",
+"streaming_link": "https://uflix.cc/",
+"enabled": true
+},
+{
+"link_name": "Link Name: uflix",
 "streaming_link": "https://streamgoblin.cc/",
 "enabled": false
 }
