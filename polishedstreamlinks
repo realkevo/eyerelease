@@ -10,20 +10,26 @@
 "enabled": true
 },
 {
-"link_name": "Link Name: AllSportsTv",
+"link_name": "Link Name: AST",
 "streaming_link": "https://tvapp1.pk/",
 "enabled": true
 },
 {
-"link_name": "Link Name: tazz",
-"streaming_link": "https://tazz-tv.net/",
-"enabled": false
+"link_name": "Link Name: rush",
+"streaming_link": "https://rushstreams.org/",
+"enabled": true
 },
 {
 "link_name": "Link name: roxie",
 "streaming_link": "https://roxiestreams.su/",
 "enabled": true
 }
+{
+"link_name": "Link Name: tazz",
+"streaming_link": "https://tazz-tv.net/",
+"enabled": false
+},
+
 ]
 },
 {
