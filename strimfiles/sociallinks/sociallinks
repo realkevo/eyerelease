@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "contacts": [
+    {
+      "account_name": "WhatsApp",
+      "platform": "whatsapp",
+      "link": "https://chat.whatsapp.com/GvG48KbqtsO6eIBHdi19tE?s=sh&p=a&mlu=0",
+      "enabled": true
+    },
+    {
+      "account_name": "Telegram",
+      "platform": "telegram",
+      "link": "https://t.me/YourTelegramChannelLinkHere",
+      "enabled": false
+    },
+    {
+      "account_name": "Gmail",
+      "platform": "gmail",
+      "link": "mailto:toptechdevelops@gmail.com?subject=Stream%20App%20Support",
+      "enabled": true
+    }
+  ]
+}
