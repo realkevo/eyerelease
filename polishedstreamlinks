@@ -10,9 +10,14 @@
 "enabled": true
 },
 {
+"link_name": "Link Name: AllSportsTv",
+"streaming_link": "https://tvapp1.pk/",
+"enabled": true
+},
+{
 "link_name": "Link Name: tazz",
 "streaming_link": "https://tazz-tv.net/",
-"enabled": true
+"enabled": false
 },
 {
 "link_name": "Link name: roxie",
@@ -32,7 +37,7 @@
 {
 "link_name": "Link Name: 123",
 "streaming_link": "https://www1.123series.art/home",
-"enabled": true
+"enabled": false
 },
 {
 "link_name": "Link Name: uflix",
